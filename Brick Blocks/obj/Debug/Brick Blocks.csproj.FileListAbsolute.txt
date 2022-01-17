@@ -1,0 +1,11 @@
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\bin\Debug\Brick Blocks.exe.config
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\bin\Debug\Brick Blocks.exe
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\bin\Debug\Brick Blocks.pdb
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\obj\Debug\Brick Blocks.csprojResolveAssemblyReference.cache
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\obj\Debug\Brick_Blocks.Form1.resources
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\obj\Debug\Brick_Blocks.Properties.Resources.resources
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\obj\Debug\Brick Blocks.csproj.GenerateResource.Cache
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\obj\Debug\Brick Blocks.exe
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\obj\Debug\Brick Blocks.pdb
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\bin\Debug\Guna.UI2.dll
+E:\Krupesh.tech\c#\Windows Apps\Games\Brick Blocks\Brick Blocks\obj\Debug\Brick_Blocks.main.resources
